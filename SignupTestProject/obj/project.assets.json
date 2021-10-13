@@ -4958,11 +4958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faweh\\source\\repos\\SignupTestProject\\SignupTestProject\\SignupTestProject.csproj",
+      "projectUniqueName": "C:\\Users\\faweh\\source\\repos\\SignupTestProjectDemo2\\SignupTestProject\\SignupTestProject.csproj",
       "projectName": "SignupTestProject",
-      "projectPath": "C:\\Users\\faweh\\source\\repos\\SignupTestProject\\SignupTestProject\\SignupTestProject.csproj",
+      "projectPath": "C:\\Users\\faweh\\source\\repos\\SignupTestProjectDemo2\\SignupTestProject\\SignupTestProject.csproj",
       "packagesPath": "C:\\Users\\faweh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faweh\\source\\repos\\SignupTestProject\\SignupTestProject\\obj\\",
+      "outputPath": "C:\\Users\\faweh\\source\\repos\\SignupTestProjectDemo2\\SignupTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\faweh\\AppData\\Roaming\\NuGet\\NuGet.Config",

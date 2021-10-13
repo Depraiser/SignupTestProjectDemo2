@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ha9rCV8VcQtPKGq8Pw3CEIPALF5k4RbJ+4pF0JLNxa63/8kagiFcHfKgy+tMozZT2fZ3ZlLhIV0Y/JYXRw4UcQ==",
+  "dgSpecHash": "3qXlJKwLq1lvhSd9ifKX460Gi75l+dNGwyA96/HdgkoMMbKN30LmWYWV705VpTv+3B7I7UPupsxVonjvu5pcmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\faweh\\source\\repos\\SignupTestProject\\SignupTestProject\\SignupTestProject.csproj",
+  "projectFilePath": "C:\\Users\\faweh\\source\\repos\\SignupTestProjectDemo2\\SignupTestProject\\SignupTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\faweh\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\faweh\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
